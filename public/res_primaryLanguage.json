@@ -69,6 +69,21 @@
     ],
     "experience": [
       {
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "07.2022 - 02.2023",
+        "mainTech": [
+          "Software Development"
+        ],
+        "technologies": [
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "React."
+
+        ]
+      },
+      {
         "company": "Amazon",
         "title": "Delivery Driver",
         "years": "03.2022 - 08.22",
