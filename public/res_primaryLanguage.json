@@ -30,7 +30,7 @@
       },
       {
         "title": "Gallery of Horns",
-        "startDate": "2018",
+        "startDate": "2022",
         "description": "This was my first project using React and my favorite project so far. It displays a gallery of horned animals and the user can choose to what beast to see based of that beasts number of horns.",
         "images": [
           "images/portfolio/hornedbeasts/p1.png",
@@ -50,7 +50,7 @@
       },
       {
         "title": "Tech-Folio",
-        "startDate": "2015",
+        "startDate": "2022",
         "description": "The Tech-Folio website was a project we chose to design because creating professional portfolios can be a daunting task. The project is designed to take the ambiguity out of this problem.",
         "images": [
           "images/portfolio/tech-folio/p1.png",
