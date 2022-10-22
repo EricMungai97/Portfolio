@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Eric Kinuthia",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer || Code Fellows Student" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/EricMungai97",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/eric-kinuthia-488192187/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myHeadshot.jpeg"
     },
     "skills": {
       "icons": [
