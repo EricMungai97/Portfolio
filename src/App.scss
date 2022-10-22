@@ -39,6 +39,7 @@ header {
 	text-align: center;
 	overflow: hidden;
 	background-color: #DEEFE7;
+
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -47,6 +48,9 @@ header {
 	padding-bottom: 0;
 }
 
+// #home {
+// 	background-image: url('images/banner.jpg');
+// }
 
 header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
