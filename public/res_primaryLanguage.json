@@ -69,37 +69,25 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Amazon",
+        "title": "Delivery Driver",
+        "years": "03.2022 - 08.22",
         "mainTech": [
-          "Angular 8/9/10"
+          "Transportation"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Delivered 300-400 packages to customers every day out of a local Amazon delivery station."
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Franke Tobey jones",
+        "title": "Certified Nurse Assistant",
+        "years": "03.2021 - 03.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Health Sector"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Aided patients with basic care and tasks, providing personalized care to over 10 patients everyday."
         ]
       }
     ]
