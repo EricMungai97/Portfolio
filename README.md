@@ -4,10 +4,10 @@ https://eric-kinuthia.netlify.app/
 
 Number and name of feature: Deploy and Extend Your Portfolio
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 4hr
 
-Start time: 
+Start time: 6pm 
 
-Finish time:
+Finish time: 10pm
 
-Actual time needed to complete: 
+Actual time needed to complete: 4hr
